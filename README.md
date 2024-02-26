@@ -2,7 +2,7 @@
 
 This is a basic rich text editor made with lexical and mui. It supports light and dark mode.
 
-![Screenshot](https://github.com/noahjoeris/Lexical-Mui-RichTextEditor/public/rte.png)
+![Screenshot](https://github.com/noahjoeris/Lexical-Mui-RichTextEditor/blob/main/public/rte.png)
 
 ### Install and use
 
