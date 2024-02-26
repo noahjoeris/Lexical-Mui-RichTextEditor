@@ -1,3 +1,9 @@
+import SampleForm from "./SampleForm";
+
 export default function Home() {
-  return <main></main>;
+  return (
+    <main>
+      <SampleForm />
+    </main>
+  );
 }

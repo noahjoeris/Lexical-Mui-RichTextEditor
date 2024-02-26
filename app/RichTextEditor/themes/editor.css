@@ -1,0 +1,59 @@
+.editor-placeholder {
+  position: "relative";
+  top: 15;
+  left: 10;
+  display: "inline-block";
+  overflow: hidden;
+  text-overflow: ellipsis;
+  user-select: none;
+  pointer-events: none;
+}
+
+.editor-text-bold {
+  font-weight: bold;
+}
+
+.editor-text-italic {
+  font-style: italic;
+}
+
+.editor-text-underline {
+  text-decoration: underline;
+}
+
+.editor-text-strikethrough {
+  text-decoration: line-through;
+}
+
+.editor-text-underlineStrikethrough {
+  text-decoration: underline line-through;
+}
+
+.editor-text-code {
+  background-color: rgb(240, 242, 245);
+  padding: 1px 0.25rem;
+  font-family: Menlo, Consolas, Monaco, monospace;
+  font-size: 94%;
+  color: rgb(255, 59, 48);
+  border-radius: 3px;
+}
+
+.editor-link {
+  color: rgb(33, 111, 219);
+  text-decoration: none;
+}
+
+.editor-paragraph {
+  margin: 0;
+
+  position: relative;
+}
+
+.editor-input {
+  position: relative;
+  padding: 0.5rem;
+  border: 1px solid rgb(222, 226, 230);
+  border-radius: 8px;
+  font-size: large;
+  min-height: 6rem;
+}
